@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 facebook
+=======
+twitter
+>>>>>>> 399f1ad (Implémentation de la connexion Twiter)
